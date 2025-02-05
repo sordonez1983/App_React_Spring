@@ -27,8 +27,8 @@ Se propone una aplicación móvil innovadora para optimizar los procesos fitosan
 * Integración con sistemas existentes: Se conecta a la base de datos MYSQL para una gestión centralizada de la información.
 
 ## Implementación:
-Frontend: React con Next.js para un desarrollo de aplicaciones web de una sola página (SPA) eficiente y con renderizado en el lado del servidor (SSR).
-Backend: Java con SpringBoot para un agil desarrollo de aplicaciones web.
+* Frontend: React con Next.js para un desarrollo de aplicaciones web de una sola página (SPA) eficiente y con renderizado en el lado del servidor (SSR).
+* Backend: Java con SpringBoot para un agil desarrollo de aplicaciones web.
 
 ## Desarrollo
 
