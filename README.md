@@ -1,4 +1,4 @@
-## Digitalización del Monitoreo de Flores en Gardaexport S.A. con una Solución Móvil
+## Digitalización del Monitoreo de Flores en Gardaexport S.A. con una Solución Web
 
 ## Resumen Ejecutivo:
 Se propone una aplicación móvil innovadora para optimizar los procesos fitosanitarios en el sector floricultor de Gardaexport S.A. Esta solución permitirá recolectar datos en tiempo real sobre el estado de las flores, facilitando la toma de decisiones informadas, reduciendo costos y mejorando la calidad del producto final.
